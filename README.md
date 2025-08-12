@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # State-of-the-art Question Answering With Streamlit and HuggingFace
 
 This is the code accompanying [this post](https://www.mihaileric.com/posts/state-of-the-art-question-answering-streamlit-huggingface/). You can try the app [here](https://wikipedia-transformers-qa.herokuapp.com/). Built using Streamlit and deployed on Heroku
@@ -49,3 +50,7 @@ All the experiments are run on `python 3.8.0`.
 framework: tf/pt # choose tensorflow or pytorch framework
 NUM_SENT: int # number of wiki sentences for context
 ```
+=======
+# Question_Answering_System
+A Question Answering (QA) system uses Natural Language Processing (NLP) and Machine Learning to understand user queries and return precise answers. It processes the question, retrieves relevant context from sources like Wikipedia or documents, and uses transformer-based models to generate accurate responses. Voice input can also be integrated.
+>>>>>>> f89ea2fc6a13e03f75aeec6a5c439668074dc96e
